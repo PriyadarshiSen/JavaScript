@@ -1,8 +1,8 @@
-// let score = "33abc"
+let score = "33abc"
 
 // console.log(typeof score);
 
-// let valueNumber = Number(score)
+let valueNumber = Number(score)
 
 // console.log(typeof valueNumber);
 // console.log(valueNumber);
@@ -14,4 +14,16 @@
 let isLoggedIn = ""
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
+
+
+// *********************** Operations ************************** //
+let value = 3
+let negValue = -value
+// console.log(negValue);
+
+let str1 ="hello"
+let str2 = " Sunny"
+let str3 = str1 + str2
+console.log(1 + 2 + "2");
+console.log(true + 2);
